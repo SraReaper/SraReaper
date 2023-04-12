@@ -19,4 +19,9 @@
   <a href="https://www.linkedin.com/in/naiara-c-41919b1b5/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a href="https://www.instagram.com/sra.reaper"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   <a href="https://dribbble.com/naiara3"> <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
-  </div>
+  
+    ![Snake animation](https://github.com/SraReaper/SraReaper/blob/main/github-contribution-grid-snake.svg)
+    
+    </div>
+    
+    [![readme](https://github-readme-stats.vercel.app/api/pin/?username=SraReaper&repo=SraReaper&theme=react)](https://github.com/SraReaper/SraReaper)

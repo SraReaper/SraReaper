@@ -24,4 +24,6 @@
     
     ![Snake animation](https://raw.githubusercontent.com/SraReaper/SraReaper/main/github-contribution-grid-snake.svg)
     
+    ![Snake animation](https://github.com/SraReaper/SraReaper/blob/main/github-contribution-grid-snake.svg)
+    
     [![readme](https://github-readme-stats.vercel.app/api/pin/?username=SraReaper&repo=SraReaper&theme=react)](https://github.com/SraReaper/SraReaper)

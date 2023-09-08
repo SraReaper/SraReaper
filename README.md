@@ -28,7 +28,6 @@
 <img style="height:32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /></p>
                   
 </div>
-  ##
   <div>
     <h3>Social media</h3>
   <a href="https://www.linkedin.com/in/naiara-c-41919b1b5/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

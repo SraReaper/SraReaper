@@ -1,7 +1,7 @@
 ## Hi, my name is Naiara and I am UI/UX Designer and Frontend Developer. 🐈‍⬛
 
 <p>👩🏼‍💻 I currently take web developer courses and projects.</p>
-<h3>🔹Click here to access my professional portfolio: https://naiara.vercel.app/🔹</h3>
+<h3>🔹Click here to access my professional portfolio: https://portfolio-nais-projects.vercel.app/🔹</h3>
 
 
 <div display="flex">

@@ -3,10 +3,7 @@
 <p>👩🏼‍💻 I currently take web developer courses and projects.</p>
 <h3>🔹Click here to access my professional portfolio: https://naiara.vercel.app/🔹</h3>
 
-<div>
-  <a href="https://beacons.ai/SraReaper">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SraReaper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 <div display="flex">
   <h3>Skills</h3>
 <p><img style="height:32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>

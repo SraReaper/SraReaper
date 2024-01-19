@@ -2,7 +2,7 @@
 
 <p>👩🏼‍💻 I am a Software Engineering student.</p>
 <p>At the moment I'm focused on golang(backend) and react(frontend), but I have several skills.</p>
-<h3>🔹Click here to access my professional portfolio: https://portfolio-nais-projects.vercel.app/🔹</h3>
+<h3>🔹Click here to access my professional portfolio: https://portfolio-nais-projects.vercel.app/ </h3>
 
 
 <div display="flex">

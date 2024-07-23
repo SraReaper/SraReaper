@@ -1,4 +1,4 @@
-## Hi, my name is Naiara, have 24 years old and I am UI/UX Designer and FullStack Developer. 🐈‍⬛
+## Hi, my name is Naiara, have 25 years old and I am UI/UX Designer and FullStack Developer. 🐈‍⬛
 
 <p>👩🏼‍💻 I am a Software Engineering student.</p>
 <p>At the moment I'm focused on golang(backend) and react(frontend), but I have several skills.</p>

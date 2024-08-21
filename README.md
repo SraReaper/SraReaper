@@ -1,7 +1,7 @@
-## Hi, my name is Naiara, have 25 years old and I am UI/UX Designer and FullStack Developer. 🐈‍⬛
-
-<p>👩🏼‍💻 I am a Software Engineering student.</p>
-<p>At the moment I'm focused on golang(backend) and react(frontend), but I have several skills.</p>
+## Software Engineering student, fullstack developer and UI designer.
+I have been studying and creating web applications and APIs for almost 3 years, developing myself in both areas.
+My main skills are: Golang, react.js with typescript and clean code. In addition to these, I have more than 10 certifications in other skills.
+In UI, I have strong skills and experience in creating screens for websites and mobile apps.
 
 
 <div display="flex">

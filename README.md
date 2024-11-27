@@ -1,7 +1,6 @@
-## Software Engineering student, fullstack developer and UI designer.
-I have been studying and creating web applications and APIs for almost 3 years, developing myself in both areas.
-My main skills are: Golang, react.js with typescript and clean code. In addition to these, I have more than 10 certifications in other skills.
-In UI, I have strong skills and experience in creating screens for websites and mobile apps.
+## Software Engineering student entering his second year of college and backend developer for 2 years with a focus on the golang language.
+I have been studying and improving my backend skills by creating web applications and APIs for almost 2 years.
+My main skills are: Golang (main language), Docker, Postman, MYSQL, postgreSQL, APIS, Javascript, Html and CSS and frameworks: Gin and Gorilla. In addition to these skills, I have more than 10 certifications in other skills such as fullstack and interface design, but at the moment my focus and improvement is in backend.
 
 
 <div display="flex">

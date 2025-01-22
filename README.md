@@ -1,6 +1,6 @@
 ## Software Engineering student entering his second year of college and backend developer for 2 years with a focus on the golang language.
 I have been studying and improving my backend skills by creating web applications and APIs for almost 2 years.
-My main skills are: Golang (main language), Docker, Postman, MYSQL, postgreSQL, APIS, Javascript, Html and CSS and frameworks: Gin and Gorilla. In addition to these skills, I have more than 10 certifications in other skills such as fullstack and interface design, but at the moment my focus and improvement is in backend.
+My main skills are: Golang (main language), Docker, Postman, MYSQL, postgreSQL, APIS, http, sqlc, AWS, Kubernets, CI/CD, Javascript, Html and CSS and frameworks: Gin and Gorilla. In addition to these skills, I have more than 10 certifications in other skills such as fullstack and interface design, but at the moment my focus and improvement is in backend.
 
 
 <div display="flex">

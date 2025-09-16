@@ -1,5 +1,9 @@
-## Software Engineering student entering his second year of college and backend developer for 2 years with a focus on the golang language.
-My main skills are: Golang (main language), Gin • Gorilla, PostgreSQL, Docker, Redis, gRPC • REST, RabbitMQ, Clean Architecture, Domain Driven Design, APIS, CI/CD.
+#Hi, this is my github profile, where I share my skills and experiences as a software developer.#
+
+<p>A little about my journey: I fell in love with application development in 2022, where I started taking frontend courses and then creating projects. A year later, I created my portfolio: https://portfolio-nais-projects.vercel.app/
+
+I started missing out on knowing how to structure an application comprehensively, with both frontend and backend. So at the end of 2023, I decided to learn backend.
+In 2024, I entered college as a Software Engineering major, and since then, I've been learning both worlds of application development.</p>
 
 
 <div display="flex">
@@ -8,9 +12,7 @@ My main skills are: Golang (main language), Gin • Gorilla, PostgreSQL, Docker,
 <p><img style="height:32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img style="height:32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 <img style="height:32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-<img style="height:32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img style="height:32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img style="height:32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" />
 <img style="height:32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 <img style="height:32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" /> 
 <img style="height:32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>

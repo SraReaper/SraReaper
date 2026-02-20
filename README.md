@@ -1,11 +1,5 @@
 #Hi, this is my github profile, where I share my skills and experiences as a software developer.#
 
-<p>A little about my journey: I fell in love with application development in 2022, where I started taking frontend courses and then creating projects. A year later, I created my portfolio: https://portfolio-nais-projects.vercel.app/
-
-I started missing out on knowing how to structure an application comprehensively, with both frontend and backend. So at the end of 2023, I decided to learn backend.
-In 2024, I entered college as a Software Engineering major, and since then, I've been learning both worlds of application development.</p>
-
-
 <div display="flex">
   <h3>Skills</h3>
 
